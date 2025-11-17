@@ -9,7 +9,7 @@
 
 ## Basics
 
-* [Editor](basics/editor.md)
+* [The Basics of Bash](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)

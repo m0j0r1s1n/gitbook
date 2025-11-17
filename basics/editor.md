@@ -2,9 +2,9 @@
 icon: pen-to-square
 ---
 
-# Editor
+# The Basics of Bash
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+Bash is where we will begin.
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
 
